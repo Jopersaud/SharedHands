@@ -17,7 +17,7 @@
 
 ### Environment Setup (Completed)
 
--   Cloned the repository from `https://github.com/Jopersaud/Team4_SharedHands.git` and checked out the `front+backend` branch
+-   Cloned the repository from `https://github.com/Jopersaud/sharedhands.git` and checked out the `front+backend` branch
 -   Resolved Windows Long Path support issue required for TensorFlow installation
 -   Successfully installed all required Python dependencies:
     -   `opencv-python`
